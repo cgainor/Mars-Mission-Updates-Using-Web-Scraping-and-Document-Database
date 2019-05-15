@@ -1,4 +1,4 @@
 # Mars-Mission-Updates-Using-Web-Scraping-and-Document-Database
 
-![Top Image](final\ result\ images/1 - top of page.png)
-![Bottom Image](final\ result\ images/2 - bottom of page.png)
+![Top Image](final%20result%20images/1%20-%20top%20of%20page.png)
+![Bottom Image](final%20result%20images/2-bottomofpage.png)
